@@ -21,6 +21,7 @@ b = np.linalg.inv(a)
 print(b)
 
 ## Output:
+![image](https://user-images.githubusercontent.com/118679883/208288226-839ac2c0-7060-4be6-945f-c31b2a179ad3.png)
 
 
 ## Result:
